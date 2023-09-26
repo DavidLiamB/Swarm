@@ -1,0 +1,17 @@
+.fs-XXL {
+  font-size: xx-large;
+}
+
+.bg {
+  background-color: rgb(15, 0, 15);
+}
+
+.colors {
+  color: red;
+}
+
+.box {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 1px solid yellow;
+  box-shadow: 0 0 10px yellow;
+}
